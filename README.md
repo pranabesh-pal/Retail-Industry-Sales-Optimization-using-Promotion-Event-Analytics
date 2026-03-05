@@ -93,6 +93,7 @@ Both campaigns generated significant uplift in revenue and sales volume.
 ![Overall Growth](images/overall_growth.png) 
 
 
+
 **Main Insight 2**
 
 Revenue vs Volume Dynamics
@@ -110,6 +111,7 @@ So, different campaigns require different optimization strategies:
 ![Campaign Performance](images/revenue_growth.png) 
 
 
+
 **Main Insight 3**
 
 Revenue Growth Outpaced Baseline
@@ -117,7 +119,7 @@ All campaigns showed more than 100% improvement compared to pre-promotion baseli
 
 ![Campaign Revenue Growth](images/before_after_revenue.png)
 
-![Campaign Sales Growth](images/before_after_sales.png)
+![Campaign Sales Growth](images/before_after_sales_qty.png)
 
 
 ---
@@ -137,19 +139,20 @@ Drives both volume and revenue simultaneously.
 ![Promo Type Performance](images/promo_type_performance.png)
 
 
+
 **Main Insight 2**
 
 Mixed Performance betwen different Promo Types
 
 - Cashback Offers Drive High Revenue
- - Revenue Increment: 90M
- - Strong positive performance across campaigns
- - Effective for revenue expansion without extreme discount depth
+  - Revenue Increment: 90M
+  - Strong positive performance across campaigns
+  - Effective for revenue expansion without extreme discount depth
 
 - 25% Discount Underperforms
- - Negative revenue growth
- - Negative sales quantity growth
- - Indicates poor price-discount balance
+  - Negative revenue growth
+  - Negative sales quantity growth
+  - Indicates poor price-discount balance
 
 - 33% and 50% discounts increased sales volume in some cases, but revenue impact remained negative due to excessive discounting. This indicates deep discounts can hurt margins.
 
@@ -168,9 +171,9 @@ High-Growth Categories
 - Combo-based products generated the highest revenue growth.
 - Grocery & Staples generated the highest volume growth.
 
-![Category Sales Growth](images/category_sales_qty.png)
-
 ![Category Revenue Growth](images/category_revenue.png)
+
+![Category Sales Growth](images/category_sales_qty.png)
 
 
 **Main Insight 2**
